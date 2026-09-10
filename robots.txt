@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://faastxdev.github.io/docs-ptutfm/sitemap.xml
